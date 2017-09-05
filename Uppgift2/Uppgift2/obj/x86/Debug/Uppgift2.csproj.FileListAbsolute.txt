@@ -1,0 +1,5 @@
+/Users/timholm/Github/Programmering1/Uppgifter/Uppgift2/Uppgift2/bin/Debug/Uppgift2.exe
+/Users/timholm/Github/Programmering1/Uppgifter/Uppgift2/Uppgift2/bin/Debug/Uppgift2.pdb
+/Users/timholm/Github/Programmering1/Uppgifter/Uppgift2/Uppgift2/obj/x86/Debug/Uppgift2.csproj.CoreCompileInputs.cache
+/Users/timholm/Github/Programmering1/Uppgifter/Uppgift2/Uppgift2/obj/x86/Debug/Uppgift2.exe
+/Users/timholm/Github/Programmering1/Uppgifter/Uppgift2/Uppgift2/obj/x86/Debug/Uppgift2.pdb

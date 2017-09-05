@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E41020EF-CA2E-4C91-93D5-D33C73E3CD08}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Uppgift2/Backpack.cs">
+    <Files>
+      <File FileName="Uppgift2/Backpack.cs" Line="103" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Uppgift2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
