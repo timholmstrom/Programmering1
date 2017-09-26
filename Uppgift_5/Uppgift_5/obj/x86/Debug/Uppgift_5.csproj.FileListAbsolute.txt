@@ -1,0 +1,5 @@
+/Users/timholm/Library/Mobile Documents/com~apple~CloudDocs/Programmering 1/Uppgift 5/Uppgift_5/Uppgift_5/obj/x86/Debug/Uppgift_5.csproj.CoreCompileInputs.cache
+/Users/timholm/Library/Mobile Documents/com~apple~CloudDocs/Programmering 1/Uppgift 5/Uppgift_5/Uppgift_5/bin/Debug/Uppgift_5.exe
+/Users/timholm/Library/Mobile Documents/com~apple~CloudDocs/Programmering 1/Uppgift 5/Uppgift_5/Uppgift_5/bin/Debug/Uppgift_5.pdb
+/Users/timholm/Library/Mobile Documents/com~apple~CloudDocs/Programmering 1/Uppgift 5/Uppgift_5/Uppgift_5/obj/x86/Debug/Uppgift_5.exe
+/Users/timholm/Library/Mobile Documents/com~apple~CloudDocs/Programmering 1/Uppgift 5/Uppgift_5/Uppgift_5/obj/x86/Debug/Uppgift_5.pdb

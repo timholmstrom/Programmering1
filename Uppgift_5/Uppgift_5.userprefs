@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D3FAF935-B305-4386-AA53-2F0097CFB2E6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Uppgift_5/Program.cs">
+    <Files>
+      <File FileName="Uppgift_5/Program.cs" Line="32" Column="21" />
+      <File FileName="Uppgift_5/Backpack.cs" Line="125" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Uppgift__5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
